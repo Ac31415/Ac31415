@@ -33,6 +33,6 @@
 
 [![Ac31415's GitHub Top Langs stats](https://github-stats-extended.vercel.app/api/top-langs?username=ac31415)](https://github.com/stats-organization/github-stats-extended)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ac31415&repo=financial_service_app)](https://github.com/ac31415/financial_service_app)
+[![Ac31415's GitHub stats](https://github-stats-extended.vercel.app/api/?username=ac31415&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ac31415's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=ac31415&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Ac31415's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ac31415&" alt="ac31415" /></p>
