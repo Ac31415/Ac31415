@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ac31415" alt="ac31415" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ac31415&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Autonomous Robot Goal Seeking and Collision Avoidance In the Physical World: An Automated Learning and Evaluation Framework based on PPO Method](https://github.com/Ac31415/RL-Auto-Eval-Framework)
 
