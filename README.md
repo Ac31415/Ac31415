@@ -33,6 +33,6 @@
 
 [![Ac31415's GitHub Top Langs stats](https://github-stats-extended.vercel.app/api/top-langs?username=ac31415)](https://github.com/stats-organization/github-stats-extended)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ac31415&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ac31415&repo=financial_service_app)](https://github.com/ac31415/financial_service_app)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ac31415&" alt="ac31415" /></p>
