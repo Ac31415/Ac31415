@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ac31415&label=Profile%20views&color=0e75b6&style=flat" alt="ac31415" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ac31415&theme=onedark" alt="ac31415" /></a> </p>
-
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=ac31415&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Autonomous Robot Goal Seeking and Collision Avoidance In the Physical World: An Automated Learning and Evaluation Framework based on PPO Method](https://github.com/Ac31415/RL-Auto-Eval-Framework)
