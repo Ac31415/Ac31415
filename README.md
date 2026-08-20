@@ -33,8 +33,6 @@
 
 [![Ac31415's GitHub Top Langs stats](https://github-stats-extended.vercel.app/api/top-langs?username=ac31415)](https://github.com/stats-organization/github-stats-extended)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ac31415&show_icons=true&locale=en&layout=compact" alt="ac31415" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ac31415&show_icons=true&locale=en" alt="ac31415" /></p>
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ac31415&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ac31415&" alt="ac31415" /></p>
