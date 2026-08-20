@@ -13,15 +13,11 @@
 
 - 🤝 I’m looking for help with **Local implementation of LLM**
 
-- 👨‍💻 All of my projects are available at [https://spaceappmissionstimeline.cloud/index.html](https://spaceappmissionstimeline.cloud/index.html)
-
-- 📄 Know about my experiences (Resume) [https://spaceappmissionstimeline.cloud/p2/assets/main.pdf](https://spaceappmissionstimeline.cloud/p2/assets/main.pdf)
+- 📄 Know about my experiences [https://spaceappmissionstimeline.cloud/](https://spaceappmissionstimeline.cloud/)
 
 - 💬 Ask me about **Python, ROS, Data Visualization, Reinforcement Learning, AI, and iOS Development**
 
 - 📫 How to reach me **wcheng3@fau.edu**
-
-- 📄 Know about my experiences (CV) [https://spaceappmissionstimeline.cloud/p2/assets/Resume2.docx.pdf](https://spaceappmissionstimeline.cloud/p2/assets/Resume2.docx.pdf)
 
 - ⚡ Fun fact **I play drums 🥁 and piano 🎹**
 
